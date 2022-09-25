@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 68539095,
+      "firstName": "Nils",
+      "lastName": "Gorczany",
+      "email": "Ford69@gmail.com"
+    },
+    {
+      "id": 67028603,
+      "firstName": "Gloria",
+      "lastName": "Cassin",
+      "email": "Jamal_Bashirian3@yahoo.com"
+    },
+    {
+      "id": 2849835,
+      "firstName": "Olga",
+      "lastName": "Moen",
+      "email": "Mariah_Christiansen13@yahoo.com"
+    },
+    {
+      "id": 51872226,
+      "firstName": "Alanna",
+      "lastName": "Sawayn",
+      "email": "Abagail_Moen@hotmail.com"
+    }
+  ]
+}
